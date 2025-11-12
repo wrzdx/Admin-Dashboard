@@ -1,6 +1,6 @@
 # Admin Dashboard  
 
-A admin dashboard UI built with CSS Grid as part of [The Odin Project](https://www.theodinproject.com/) Intermediate HTML/CSS curriculum.  
+A admin dashboard UI built with CSS Grid as part of The Odin Project. Intermediate HTML/CSS curriculum.  
 
 ## Preview  
 
